@@ -1,0 +1,6 @@
+@CHARSET "UTF-8";
+.list_table {
+border-width: 1px;
+border-style: solid;
+border-color: blue;
+}
